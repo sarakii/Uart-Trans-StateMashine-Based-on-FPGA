@@ -7,6 +7,7 @@
 3. 优化了代码风格：减少begin-end的使用，减少了if嵌套。
 4. 简化了代码：把原本用时序逻辑写的always块改成一句assign。
 PS：写完以后，师兄跟我说他平时写串口都不用状态机写的，因为串口比较简单，状态少，用状态机的写法反而会浪费电路资源。
+   image](https://github.com/user-attachments/assets/68d9ab20-1772-4fd1-ac4f-0d577d43a810)
 
 ## 实验截图：<br>
 ### 串口文本收发<br>
